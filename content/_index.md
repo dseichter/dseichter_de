@@ -9,4 +9,4 @@ Welcome 👋 to my page.
 - AWS Fanboy ❤️
 - Python hobbyist 🐍
 
-My tools have all a new home, at [GitHub](https://github.com/dseichter).
+My tools have all a new home at [GitHub](https://github.com/dseichter).
