@@ -1,5 +1,6 @@
 ---
 title: Everything Open Source now!
+description: Why I made my software OpenSource.
 tags:
  - OpenSource
  - AWSManager

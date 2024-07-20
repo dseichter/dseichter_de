@@ -1,8 +1,10 @@
 ---
-title: "About"
+title: About
+description: Something about me
+showToc: false
 ---
 
-This is me: 
+Hello, this is me. 
 
 ![Hello](../images/bitmoji-laptop-wave.png)
 

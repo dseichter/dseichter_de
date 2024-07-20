@@ -1,5 +1,6 @@
 ---
 title: Welcome
+description: Welcome to my page.
 ---
 Welcome 👋 to my page.
 
