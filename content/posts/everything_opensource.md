@@ -5,7 +5,7 @@ tags:
  - OpenSource
  - AWSManager
  - Workdir
- - GitHubIssueCluent
+ - GitHubIssueClient
  - RunIfExists
  - VATValidation
 date: 2024-07-20
