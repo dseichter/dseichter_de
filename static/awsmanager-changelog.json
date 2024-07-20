@@ -1,0 +1,76 @@
+{
+    "2.9.9":
+    {
+        "version": "2.9.9",
+        "date": "2024-06-02",
+        "download64": "/downloads/awsmanager_2.9.9.exe",
+        "changelog": [
+            "IMPORTANT: AWS Manager will become OpenSource! Last update using Delphi. Future updates will be done using Python.",
+            "New releases will be available at the new location",
+            "CHG: Add GitHub links",
+            "CHG: Donation link"
+        ]
+    },
+    "2.1.2": {
+        "version": "2.1.2",
+        "date": "2024-01-30",
+        "download64": "/downloads/awsmanager_2.1.2.exe",
+        "changelog": [
+            "CHG: Updated CodeSigning certificate"
+        ]
+    },
+    "2.1.1": {
+        "version": "2.1.1",
+        "date": "2023-11-23",
+        "download64": "/downloads/awsmanager_2.1.1.exe",
+        "changelog": [
+            "CHG: Updated about dialog",
+            "FIX: removed duplicate loop of S3 objects"
+        ]
+    },
+    "2.1.0": {
+        "version": "2.1.0",
+        "date": "2023-11-18",
+        "download64": "/downloads/awsmanager_2.1.0.exe",
+        "changelog": [
+            "New: Complete redesign to support multiple windows of same services.",
+            "New: Cloudfront Functions added to the distribution.",
+            "New: S3 upload using drag&drop accepts multiple files into existing key.",
+            "New: S3 deletion of object is now possible.",
+            "New: Possibility to change order of service tabs.",
+            "CHG: S3 drag&drop behaviour",
+            "CHG: Migrate to Delphi 12",
+            "CHG: Use new check for update location",
+            "FIX: Load last closed windows could be broken.",
+            "FIX: Performance issue by blocking inherited queries.",
+            "FIX: Invalidate Cache was possible without selecting a distribution.",
+            "FIX: S3 upload could cause a dotted key"
+        ]
+    },
+    "2.0.1": {
+        "version": "2.0.1",
+        "date": "2023-02-07",
+        "download64": "/downloads/awsmanager_2.0.1.exe",
+        "changelog": [
+            "CHG: Update Code Signing Certificate",
+            "FIX: First refactoring using SonarQube"
+        ]
+    },
+    "2.0.0": {
+        "version": "2.0.0",
+        "date": "2022-08-20",
+        "download64": "/downloads/awsmanager_2.0.0.exe",
+        "changelog": [
+            "CHG: rebrand from erpware to Daniel Seichter"
+        ]
+    },
+    "1.9.9": {
+        "version": "1.9.9",
+        "date": "2022-07-30",
+        "download64": "/downloads/awsmanager_1.9.9.exe",
+        "changelog": [
+            "CHG: Add selection of existing AWS profiles",
+            "FIX: CodeCommit may not be able to load detailed information"
+        ]
+    }
+}
