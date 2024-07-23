@@ -64,4 +64,6 @@ Second thing I want to mention is the available GitHub Action [softprops/action-
 
 You see the usage of the output. If I will rerun the pipeline again, it will update this release.
 
+Now, I only need to link the whl files into my requirements file for the linux versions. This will improve the performance for building a lot. 
+
 That's it :smile: Hope you enjoy reading and you can get some useful information.
