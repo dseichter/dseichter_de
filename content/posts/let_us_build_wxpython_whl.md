@@ -8,7 +8,7 @@ tags:
  - GitHubIssueClient
  - RunIfExists
  - VATValidation
-date: 2024-07-21
+date: 2024-07-23
 ---
 
 It doesn't matter, which application I build. The build step of pyinstaller runs about half an our only because of compiling the wxPython whl file. This whl package is used to create the binary file for Linux.
