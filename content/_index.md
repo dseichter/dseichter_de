@@ -12,3 +12,5 @@ description: Welcome to my homepage about me.
 - Python hobbyist 🐍
 
 My tools have all found a new home on [GitHub](https://github.com/dseichter).
+
+{{% socialicons %}}
