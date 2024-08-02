@@ -26,7 +26,7 @@ Experienced DevSecOps have the following problem: As soon as they start thinking
 
 Sure, this is also provocatively formulated, but in every bigger team there are people, they react more or less as previously described.
 
-## Give human intelligence chance
+## Give human intelligence a chance
 
 I saw both. The AI fanboys (without understanding the result and the environment) and the ones who are afraid of losing their job. But hey, give your own brain the chance to tell you, that it still there.
 
