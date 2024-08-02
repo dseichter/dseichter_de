@@ -11,7 +11,7 @@ It's friday evening and I just finalized the cleaning of a room from all old stu
 It's raining outside, it's dark outside and I am sitting in front of my computer and read all the mails and news I missed.
 
 * The best offering of a new job. The company was happy to find me at linkedin. Yeehaa ... deleted! 
-* Next message. People like me are wanted. By so wonderfu companies. Sweet ... deleted! 
+* Next message. People like me are wanted. By so wonderful companies. Sweet ... deleted! 
 * Oh wow... Am I a certified whatever? I will get more certifications? Hmm... interesting. Let's check, what kind of certificates I can gather.
 
 ## Certification bullshit
