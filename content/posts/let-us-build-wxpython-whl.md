@@ -1,6 +1,6 @@
 ---
 title: Let us build wxPython whl
-description: Speed up the build and release process.
+description: Speed up the build and release process by providing own whl.
 tags:
  - wxPython
  - AWSManager
