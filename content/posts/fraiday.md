@@ -12,11 +12,11 @@ AI here, AI there, I use it everywhere. But do we really need AI everyday? Where
 
 Since there are several tools, ChatGPT, Copilot (the Microsoft and the GitHub), different whisperer tools, some you can't pronounce, some you feel like in a museum of arts. And YES, they all have their reason for being there. They all can help us, the developers (or more modern DevSecOps (used for the rest of the article)), but we should not forget one important point:
 
-We can use it, because we know it. But what do you tell your younger colleagues, that grown up only in that times of having an artifical assistant next to them? What do you tell those colleagues, with fear in their eyes of become obsolete?
+We can use it, because we know it. But what do you tell your younger colleagues, that grown up only in that times of having an artificial assistant next to them? What do you tell those colleagues, with fear in their eyes of become obsolete?
 
 ### Unexperienced DevSecOps
 
-Unexperienced DevSecOps can't challenge the results of all those tools. That is very provocatively formulated, but show me the opposite. Asking CoPilot for ten suggestions and the one, which is most readable will be choosen. If the result of parsing an output is not fine, no problem, there is another question I can ask the chat to fix it.
+Unexperienced DevSecOps can't challenge the results of all those tools. That is very provocatively formulated, but show me the opposite. Asking CoPilot for ten suggestions and the one, which is most readable will be chosen. If the result of parsing an output is not fine, no problem, there is another question I can ask the chat to fix it.
 
 The result: unreadable code (no problem, there is an assistant which can explain) or a really old pattern with some "Deprecated" warnings. No problem, warnings can be ignored. Yeehaa, the young DevSecOps can handle every challenge.
 
