@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://www.dseichter.de"
 title: Daniel Seichter
-copyright: "© Daniel Seichter & [Website Contributors](https://github.com/dseichter/dseichter_de/graphs/contributors)"
+copyright: "© Daniel Seichter & [Website Contributors](https://github.com/dseichter/dseichter_de/graphs/contributors) · [Uptime Status](https://stats.uptimerobot.com/gcCY8e7lnh/797564205)"
 paginate: 5
 theme: [PaperMod]
 
