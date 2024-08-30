@@ -40,9 +40,6 @@ languages:
         - name: "Blog"
           weight: 10
           url: "posts/"
-        - name: Tags
-          url: tags/
-          weight: 20
         - name: About me
           url: about/
           weight: 30
